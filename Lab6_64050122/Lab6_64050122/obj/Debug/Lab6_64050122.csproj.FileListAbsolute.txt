@@ -1,0 +1,7 @@
+C:\Users\jj\Desktop\code\MVC\Lab6_64050122\Lab6_64050122\obj\Debug\Lab6_64050122.csproj.AssemblyReference.cache
+C:\Users\jj\Desktop\code\MVC\Lab6_64050122\Lab6_64050122\obj\Debug\Lab6_64050122.csproj.CoreCompileInputs.cache
+C:\Users\jj\Desktop\code\MVC\Lab6_64050122\Lab6_64050122\bin\Debug\Lab6_64050122.exe.config
+C:\Users\jj\Desktop\code\MVC\Lab6_64050122\Lab6_64050122\bin\Debug\Lab6_64050122.exe
+C:\Users\jj\Desktop\code\MVC\Lab6_64050122\Lab6_64050122\bin\Debug\Lab6_64050122.pdb
+C:\Users\jj\Desktop\code\MVC\Lab6_64050122\Lab6_64050122\obj\Debug\Lab6_64050122.exe
+C:\Users\jj\Desktop\code\MVC\Lab6_64050122\Lab6_64050122\obj\Debug\Lab6_64050122.pdb
